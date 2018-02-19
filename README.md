@@ -1,7 +1,1 @@
-#Hello World
-Public class Hello{
-Public Static void main(String args[])
-{
-System.out.println("Hello World!");
-}
-}
+System.out.println("Hello world")
