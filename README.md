@@ -1,4 +1,7 @@
-#HI,How Are U.
-This is my first repository.
-And I am new to GitHub .
-This my first hands in GitHub.
+#Hello World
+Public class Hello{
+Public Static void main(String args[])
+{
+System.out.println("Hello World!");
+}
+}
