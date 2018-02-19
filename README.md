@@ -1,2 +1,7 @@
-# Hello-world
-This is my first repository.
+#Hello World
+Public class Hello{
+Public Static void main(String args[])
+{
+System.out.println("Hello World!");
+}
+}
